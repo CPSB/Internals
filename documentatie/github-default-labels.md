@@ -15,7 +15,6 @@ Deze labels worden geimplementeerd op elke Github Repository van activismeBE.
 | Enhancement           |	`#fef2c0`   | Een verbetering in het systeem.                           |
 | Feature	            |	`#fef2c0`   | Een nieuwe functionaliteit.                               |
 | High Priority         |	`#e99695`   | Hoge prioriteit                                           |
-| In Progress           |	`#fbca04`   | Een issue waar aan gewerkt word.                          |
 | Invalid	            |	`#d4c5f9`   | Een issue dat niet klopt of bevestigd kan worden.         |
 | Legal	                |	`#5319e7`   | Issues omtrent licenties enz.                             |
 | Low Priority	        |	`#e99695`   | Lage prioriteit.                                          |
