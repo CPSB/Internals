@@ -24,3 +24,4 @@ Deze labels worden geimplementeerd op elke Github Repository van activismeBE.
 | Question	            | 	`#1d76db`   | Een vraag. Hoeft niet gerelateerd te zijn aan een fout.   |
 | Security	            |	`#d93f0b`   | Veiligheids gerelateerde issues.                          |
 | Wontfix		        |	`#d4c5f9`   | Een issue dat niet gefixt zal worden.                     |
+| PR Provided | `#d4c5f9` | Een issue waar een fix in pr staat maar nog niet gesloten is |
