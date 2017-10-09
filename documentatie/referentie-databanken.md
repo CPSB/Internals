@@ -27,7 +27,7 @@ gemengd word met test data.
 - `ACTB_testing_resources` = Alle testing data die in de csam, armoede bestrijding en activisme van toepassing is. 
 
 - `ACTB_prod_activisme` = Alle productie data omtrent het activisme luik. 
-- `ACTB_testing_resources` =  Alle testing data omtrent het activisme luik. 
+- `ACTB_testing_activisme` =  Alle testing data omtrent het activisme luik. 
 
 ## [OPTIONEEL]: Het aanmaken van de bevoegde gebruiker. 
 
